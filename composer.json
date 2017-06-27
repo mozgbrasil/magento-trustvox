@@ -1,0 +1,30 @@
+{
+    "name": "mozgbrasil/magento-trustvox",
+    "description": "Trustvox",
+    "version": "1.0.0",
+    "type": "magento-module",
+    "keywords": ["cerebrum", "mozg", "magento", "trustvox"],
+    "homepage": "http://mozg.com.br",
+    "time": "2017-06-27 11:08:08",
+    "license": [
+        "proprietary"
+    ],
+    "authors": [
+        {
+            "name": "Marcio dos Santos Amorim",
+            "email": "suporte@mozg.com.br",
+            "homepage": "http://mozg.com.br",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "suporte@mozg.com.br",
+        "issues": "https://github.com/mozgbrasil/magento-trustvox/issues",
+        "forum": "http://mozg.com.br/forums/view/1",
+        "wiki": "http://wiki.mozg.com.br",
+        "irc": "irc://irc.freenode.org/mozgbrasil",
+        "source": "https://github.com/mozgbrasil/magento-trustvox",
+        "docs": "https://github.com/mozgbrasil/magento-trustvox/wiki",
+        "rss": "https://mozg.com.br/feed.xml"
+    }
+}
