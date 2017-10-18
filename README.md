@@ -15,7 +15,7 @@ Trustvox para Magento
 
 Automação para a instalação do módulo
 
-Para mais informações, visite 
+Para mais informações, visite
 
 http://help.trustvox.com.br/article/64-instalacao-trustvox-em-uma-loja-com-a-plataforma-magento
 
@@ -33,8 +33,6 @@ Para obter o devido suporte entre em contato com a desenvolvedora do módulo
 
 Esta biblioteca destina-se a ser instalado usando o [Composer][getcomposer].
 
-Autoloading compatível é [PSR-4][psr4]
-
 --
 
 Certique se da presença do arquivo composer.json na raiz do seu projeto Magento e que o mesmo tenha os parâmetros semelhantes ao modelo JSON abaixo
@@ -46,6 +44,10 @@ Certique se da presença do arquivo composer.json na raiz do seu projeto Magento
 	    "proprietary"
 	  ],
 	  "repositories": [
+		{
+		  "type": "vcs",
+		  "url":  "git@bitbucket.org:team_mozg/magento-trustvox.git"
+		},
 	    {
 	      "type": "composer",
 	      "url": "https?://packages.firegento.com"
