@@ -50,7 +50,7 @@ Certique se da presença do arquivo composer.json na raiz do seu projeto Magento
 		},
 	    {
 	      "type": "composer",
-	      "url": "https?://packages.firegento.com"
+	      "url": "https://packages.firegento.com"
 	    }
 	  ],
 	  "extra": {
